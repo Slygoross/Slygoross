@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slygoross&label=Profile%20views&color=0e75b6&style=flat" alt="slygoross" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **React.js, JavaScript**
+- 🌱 I’m currently learning **Flutter, Dart**
 
 - 📫 How to reach me **pranavmodgil@gmail.com**
 
